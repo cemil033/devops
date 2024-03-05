@@ -1,0 +1,12 @@
+D:\project\Build.Common\src\Build.Common\bin\Debug\net7.0\Build.Common.deps.json
+D:\project\Build.Common\src\Build.Common\bin\Debug\net7.0\Build.Common.dll
+D:\project\Build.Common\src\Build.Common\bin\Debug\net7.0\Build.Common.pdb
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.csproj.AssemblyReference.cache
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.AssemblyInfoInputs.cache
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.AssemblyInfo.cs
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.csproj.CoreCompileInputs.cache
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.dll
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\refint\Build.Common.dll
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\Build.Common.pdb
+D:\project\Build.Common\src\Build.Common\obj\Debug\net7.0\ref\Build.Common.dll
